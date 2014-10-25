@@ -25,7 +25,7 @@ define([ "methods" ], function( methods ) {
       element.appendChild( add );
     }
 
-    return e;
+    return element;
   };
 
 //>>excludeStart("exclude", pragmas.exclude);
